@@ -4,13 +4,13 @@ title: "gScoreCAM: what is CLIP looking at?"
 event: Oral presentation at Asian Conference on Computer Vision (ACCV 2022)
 event_url: https://www.youtube.com/watch?v=YtDwwS94GlI&themeRefresh=1
 
-# location: Hugo Blox Builder HQ
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+location:
+address:
+  # street: 450 Serra Mall
+  # city: Stanford
+  # region: CA
+  # postcode: '94305'
+  # country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'This talk introduces gScoreCAM, a novel method to visualize the attention of CLIP. gScoreCAM is a gradient-based method that generates class activation maps for CLIP. We demonstrate that gScoreCAM can provide interpretable visualizations of CLIP's attention, which can help users understand what CLIP is looking at.'
@@ -36,22 +36,22 @@ image:
   preview_only: false
   url: 'image.png'
 
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
-# url_code: ''
-# url_pdf: ''
-# url_slides: ''
-# url_video: ''
+links: ''
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://twitter.com/georgecushen
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
