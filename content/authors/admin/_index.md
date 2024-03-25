@@ -22,7 +22,7 @@ role: Ph.D. candidate at Auburn University
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Auburn University
-    URL: [https://www.stanford.edu/](https://www.auburn.edu/)
+    url: [https://www.stanford.edu/](https://www.auburn.edu/)
 
 # Short bio (displayed in the user profile at the end of posts)
 bio: My research interests include diverse machine-learning topics like XAI, object detection, and modeling.
