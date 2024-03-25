@@ -3,7 +3,7 @@
 title: Peijie Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Peijie Chen
+name_pronunciation: pay-jyeah Chen
 
 # Full name (for SEO)
 first_name: Peijie
