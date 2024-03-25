@@ -53,38 +53,63 @@ sections:
   - block: experience
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Machine Learning Engineer Intern
+          company: Noteworthy AI
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: ''
+          location: Connecticut, US
+          date_start: '2022-09-01'
+          date_end: '2022-12-01'
           description: |2-
-              Responsibilities include:
+              During my internship, my primary role involved:
+              
+              * Developing and enhancing object detection/segmentation models
+              * Designing and implementing data collection processes
+              * Collaborating with the engineering team to deploy models and algorithms
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Research Assistant
+          company: NSF Research Experiences for Undergraduates on Smart UAVs
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
+          company_logo: ''
+          location: Auburn University
+          date_start: '2021-05-01'
+          date_end: '2021-07-01'
+          description: |2-
+              My responsibilities included:
+              
+              * Supporting students with logistics and mentorship
+              * Providing machine learning applications in UAV technology
+              * Offering practical advice and problem-solving strategies
+
+        - title: Co-founder
+          company: BooJum Studio
+          company_url: ''
+          company_logo: ''
+          location: Shenzhen, China
+          date_start: '2017-01-01'
+          date_end: '2018-01-01'
+          description: |2-
+              I co-founded BooJum Studio, where we:
+              
+              * Leveraged machine learning to enhance the art design process
+              * Streamlined client-designer interactions
+              * Generated a variety of design options through automation
+              
+        - title: Intern
+          company: Shenzhen Xun Fang Telecom
+          company_url: ''
+          company_logo: ''
+          location: Shenzhen, China
+          date_start: '2014-05-01'
+          date_end: '2014-09-01'
+          description: |2-
+              My work involved:
+              
+              * Maintaining and optimizing networking systems for WCDMA services
+      design:
+        columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
