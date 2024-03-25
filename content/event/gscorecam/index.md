@@ -6,11 +6,11 @@ event_url: https://www.youtube.com/watch?v=YtDwwS94GlI&themeRefresh=1
 
 location: Hugo Blox Builder HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ""
+  city: ""
+  region: ""
+  postcode: ''
+  country: ""
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'This talk introduces gScoreCAM, a novel method to visualize the attention of CLIP. gScoreCAM is a gradient-based method that generates class activation maps for CLIP. We demonstrate that gScoreCAM can provide interpretable visualizations of CLIP's attention, which can help users understand what CLIP is looking at.'
