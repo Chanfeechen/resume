@@ -105,7 +105,7 @@ social:
     link: https://github.com/Chanfeechen
   - icon: linkedin
     icon_pack: fab
-    link: [https://www.linkedin.com/](https://www.linkedin.com/in/chen-peijie-3897b8211/)
+    link: https://www.linkedin.com/in/chen-peijie-3897b8211/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
