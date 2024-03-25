@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Peijie Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Peijie Chen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Peijie
+last_name: Chen
 
 # Status emoji
 status:
@@ -17,34 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate at Auburn University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Auburn University
+    URL: [https://www.stanford.edu/](https://www.auburn.edu/)
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Short bio (displayed in the user profile at the end of posts)
+bio: My research interests include diverse machine-learning topics like XAI, object detection, and modeling.
 
-# Interests to show in About widget
-interests:
+# Interests to show in the About widget
+Interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Movies
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+# Education to show in the About widget
+Education:
+- Ph.D. in Computer Science 
+  Auburn University, Auburn, AL, 2018 - Present  
+  Under the guidance of Prof. Anh Nguyen and Prof. Saad Biaz, my research focuses on advancing the field of Artificial Intelligence, with a particular interest in object detection, explainable AI, and multi-modal learning.
+
+- M.S. in Electrical Engineering  
+  Auburn University, Auburn, AL, 2015 - 2017  
+  Specialized in signal processing and deep learning, laying the foundation for my later research in AI technologies.
+
+- B.S. in Telecommunication Engineering  
+  Shenzhen University, Shenzhen, China, 2010 - 2014  
+  Gained a robust understanding of communication systems, which later evolved into a passion for exploring the intersection of telecommunications.
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,37 +55,34 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Pytorch
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
-        icon_pack: fas
+      - name: TensorFlow
+        description: ''
+        percent: 50
       - name: SQL
         description: ''
-        percent: 40
+        percent: 50
         icon: database
-        icon_pack: fas
+        icon_pack: fa5
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Movies
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
+        percent: 99
+        icon: film
+        icon_pack: hero
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,19 +95,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/PeijieChen
+    label: Not an active twitter user
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=QBfXEq0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Chanfeechen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: [https://www.linkedin.com/](https://www.linkedin.com/in/chen-peijie-3897b8211/)
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Peijie Chen is an aspiring Ph.D. candidate in Computer Science and Software Engineering at Auburn University, with a keen focus on Artificial Intelligence. With a foundational background in Telecommunication Engineering (B.S.) from Shenzhen University and Electrical Engineering (M.S.) from Auburn University, Peijie has developed a strong expertise in signal processing. His broad research interests include object detection, explainable AI, and multi-modal learning. This diverse academic journey showcases not only a commitment to technical excellence but also a deep engagement with the cutting-edge of AI research.
 {style="text-align: justify;"}
