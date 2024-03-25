@@ -22,7 +22,7 @@ role: Ph.D. candidate at Auburn University
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Auburn University
-    url: [https://www.stanford.edu/](https://www.auburn.edu/)
+    url: https://www.auburn.edu/
 
 # Short bio (displayed in the user profile at the end of posts)
 bio: My research interests include diverse machine-learning topics like XAI, object detection, and modeling.
@@ -34,19 +34,17 @@ Interests:
   - Movies
 
 # Education to show in the About widget
-Education:
-- Ph.D. in Computer Science 
-  Auburn University, Auburn, AL, 2018 - Present  
-  Under the guidance of Prof. Anh Nguyen and Prof. Saad Biaz, my research focuses on advancing the field of Artificial Intelligence, with a particular interest in object detection, explainable AI, and multi-modal learning.
-
-- M.S. in Electrical Engineering  
-  Auburn University, Auburn, AL, 2015 - 2017  
-  Specialized in signal processing and deep learning, laying the foundation for my later research in AI technologies.
-
-- B.S. in Telecommunication Engineering  
-  Shenzhen University, Shenzhen, China, 2010 - 2014  
-  Gained a robust understanding of communication systems, which later evolved into a passion for exploring the intersection of telecommunications.
-
+education:
+  courses:
+    - course: Ph.D. in Computer Science
+      institution: Auburn University
+      year: 2018 - Present
+    - course: M.S. in Electrical Engineering
+      institution: Auburn University
+      year: 2015 - 2017
+    - course: B.S. in Telecommunication Engineering
+      institution: Shenzhen University
+      year: 2010 - 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
