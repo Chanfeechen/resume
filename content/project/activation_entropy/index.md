@@ -3,7 +3,7 @@ title: Layer-Wise Entropy Analysis and Visualization of Neurons Activation
 summary: Understanding the inner working mechanism of deep neural networks (DNNs) is essential and important for researchers to design and improve the performance of DNNs. In this work, the entropy analysis is leveraged to study the neurons activation behavior of the fully connected layers of DNNs.
 tags:
   - Deep Learning
-date: '2022-02-27T00:00:00Z'
+date: '2020-02-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -16,16 +16,16 @@ links:
   - icon: arxiv
     icon_pack: fab
     name: pdf
-    url: https://openaccess.thecvf.com/content/ACCV2022/html/Chen_gScoreCAM_What_objects_is_CLIP_looking_at_ACCV_2022_paper.html
-  - icon: github
-    icon_pack: fab
-    name: code
-    url: https://github.com/anguyen8/gScoreCAM
-  - icon: youtube
-    icon_pack: fab
-    name: video
-    url: https://www.youtube.com/watch?v=YtDwwS94GlI
-    label: Watch the video
+    url: https://link.springer.com/chapter/10.1007/978-3-030-41117-6_3
+  # - icon: github
+  #   icon_pack: fab
+  #   name: code
+  #   url: https://github.com/anguyen8/gScoreCAM
+  # - icon: youtube
+  #   icon_pack: fab
+  #   name: video
+  #   url: https://www.youtube.com/watch?v=YtDwwS94GlI
+  #   label: Watch the video
 url_code: ''
 url_pdf: ''
 url_slides: ''
