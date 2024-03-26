@@ -3,7 +3,7 @@ title: PEEB, Part-based Bird Classifier with an Explainable and Editable Languag
 summary: We proposed a part-based bird classifier that makes predictions based on part-wise descriptions. Our method directly utilizes human-provided descriptions (in this work, from GPT4). It outperforms CLIP and M&V by 10 points in CUB and 28 points in NABirds.
 tags:
   - Deep Learning
-date: '2024-01-01T00:00:00Z'
+date: '2024-03-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

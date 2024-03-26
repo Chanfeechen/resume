@@ -3,7 +3,7 @@ title: gScoreCAM, What objects is CLIP looking at?
 summary: Based on the observations that CLIP ResNet-50 channels are very noisy compared to typical ImageNet-trained ResNet-50, and most saliency methods obtain pretty low object localization scores with CLIP. By visualizing the top 10% most sensitive (highest-gradient) channels, our gScoreCAM obtains the state of the art weakly supervised localization results using CLIP (in both ResNet and ViT versions).
 tags:
   - Deep Learning
-date: '2022-01-01T00:00:00Z'
+date: '2022-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
