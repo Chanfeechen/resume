@@ -32,13 +32,14 @@ Interests:
   - Artificial Intelligence
   - Deep Learning
   - Movies
+  - Cats
 
 # Education to show in the About widget
 education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Auburn University
-      year: 2018 - Present
+      year: 2018 - 2024
     - course: M.S. in Electrical Engineering
       institution: Auburn University
       year: 2015 - 2017
