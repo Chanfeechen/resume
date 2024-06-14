@@ -55,6 +55,31 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
+
+        - title: Machine Learning Engineer Intern
+          company: Noteworthy AI
+          company_url: ''
+          company_logo: ''
+          location: Connecticut, US
+          date_start: '2024-04-22'
+          date_end: '2024-01-02'
+          description: |2-
+              During my internship, my primary role involved:
+              
+              * Developing and enhancing object depth estimation/defect detection models
+              * Collaborating with the engineering team to deploy models and algorithms
+
+        - title: Research Assistant
+          company: Auburn University
+          company_url: ''
+          company_logo: ''
+          location: Auburn University
+          date_start: '2023-01-01'
+          date_end: '2023-12-31'
+          description: |2-
+              * Conducting research on machine learning
+              * Collaborating with students and faculty on research projects
+
         - title: Machine Learning Engineer Intern
           company: Noteworthy AI
           company_url: ''
@@ -70,6 +95,17 @@ sections:
               * Collaborating with the engineering team to deploy models and algorithms
 
         - title: Research Assistant
+          company: Auburn University
+          company_url: ''
+          company_logo: ''
+          location: Auburn University
+          date_start: '2021-08-01'
+          date_end: '2022-08-01'
+          description: |2-
+              * Conducting research on machine learning
+              * Collaborating with students and faculty on research projects
+
+        - title: Research Assistant
           company: NSF Research Experiences for Undergraduates on Smart UAVs
           company_url: ''
           company_logo: ''
@@ -82,6 +118,20 @@ sections:
               * Supporting students with logistics and mentorship
               * Providing machine learning applications in UAV technology
               * Offering practical advice and problem-solving strategies
+
+        - title: Teaching Assistant
+          company: Auburn University
+          company_url: ''
+          company_logo: ''
+          location: Auburn University
+          date_start: '2019-01-01'
+          date_end: '2021-08-01'
+          description: |2-
+              I assisted with:
+              
+              * Course preparation and grading
+              * Student support and mentorship
+              * Lab and project supervision
 
         - title: Co-founder
           company: BooJum Studio
@@ -152,33 +202,33 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Recent Posts
-  #     subtitle: ''
-  #     text: ''
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       folders:
-  #         - post
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: compact
-  #     columns: '2'
+  - block: collection
+    id: reading notes
+    content:
+      title: Reading notes
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - reading_notes
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
   - block: portfolio
     id: projects
     content:
