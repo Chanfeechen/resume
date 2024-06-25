@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate at Auburn University
+role: Senior ML Engineer at Noteworthy AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Auburn University
-    url: https://www.auburn.edu/
+  - name: Noteworthy AI
+    url: https://www.noteworthy.ai/
 
 # Short bio (displayed in the user profile at the end of posts)
 bio: My research interests include diverse machine-learning topics like XAI, object detection, and modeling.
@@ -117,6 +117,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Peijie Chen is an aspiring Ph.D. candidate in Computer Science and Software Engineering at Auburn University, with a keen focus on Artificial Intelligence. With a foundational background in Telecommunication Engineering (B.S.) from Shenzhen University and Electrical Engineering (M.S.) from Auburn University, Peijie has developed a strong expertise in signal processing. His broad research interests include object detection, explainable AI, and multi-modal learning. This diverse academic journey showcases not only a commitment to technical excellence but also a deep engagement with the cutting-edge of AI research.
+<!-- 
+Peijie Chen is an aspiring Ph.D. candidate in Computer Science and Software Engineering at Auburn University, with a keen focus on Artificial Intelligence. With a foundational background in Telecommunication Engineering (B.S.) from Shenzhen University and Electrical Engineering (M.S.) from Auburn University, Peijie has developed a strong expertise in signal processing. His broad research interests include object detection, explainable AI, and multi-modal learning. This diverse academic journey showcases not only a commitment to technical excellence but also a deep engagement with the cutting-edge of AI research. -->
+Peijie Chen completed his Ph.D. in the Department of Computer Science and Software Engineering at Auburn University. His passion for AI ignited after AlphaGo’s historic win. With a strong background in signal processing, holding an undergraduate degree in Telecommunication Engineering and a Master's degree in Electrical Engineering, Peijie has delved into deep learning research, including object detection, explainable AI, and multi-modal learning. His academic journey combines rigorous engineering disciplines with a passion for the evolving field of AI technologies.
 {style="text-align: justify;"}
