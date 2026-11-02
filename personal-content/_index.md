@@ -12,5 +12,5 @@ title = 'Peijie Chen'
 
 ## From the workbench
 
-[All five projects →](/project/)
+[All projects →](/project/)
 
