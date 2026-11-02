@@ -1,0 +1,33 @@
+baseURL = 'https://peijiechen.fyi/'
+languageCode = 'en-us'
+title = 'Peijie Chen'
+theme = 'terminal'
+contentDir = 'personal-content'
+copyright = '© Peijie Chen'
+enableRobotsTXT = true
+[pagination]
+  pagerSize = 5
+[params]
+  contentTypeName = 'project'
+  showMenuItems = 4
+  centerTheme = true
+  fullWidthTheme = false
+  subtitle = 'Computer vision, explainable AI, and a few things beyond the screen.'
+  readMore = 'Explore project →'
+  [params.logo]
+    logoText = 'peijie@home:~$'
+    logoHomeLink = '/'
+[[menus.main]]
+  name = 'projects'
+  url = '/project/'
+  weight = 1
+[[menus.main]]
+  name = 'notes'
+  url = '/notes/'
+  weight = 2
+[[menus.main]]
+  name = 'about'
+  url = '/about/'
+  weight = 3
+[markup.goldmark.renderer]
+  unsafe = false
